@@ -1,4 +1,7 @@
-Overflux Electrochemical Simulation
-===================================
+**Performance Improvements in Renewable Energy Storage via Magnetic Field Application**
+----------------------------------------
+This project studies how magnetic fields enhance energy storage efficiency. 
+Experiments on iron-based flow batteries and simulations on lithium-ion cells 
+show a 3.3× faster reaction rate and higher round-trip efficiency (70% to 83%).
 
-Overflux models diffusion-controlled electrochemical experiments and provides a PyQt5 desktop UI for exploring the results in real time. The application focuses on cyclic voltammetry (CV) and chronoamperometry (CA) experiments and visualises potential, current, and concentration profiles generated from a finite-difference solution of the governing PDEs.
+The following code is a crude attempt at simulating the kinetics in an electrochemical system.
